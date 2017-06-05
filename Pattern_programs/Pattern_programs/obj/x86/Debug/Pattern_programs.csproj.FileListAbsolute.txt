@@ -1,0 +1,4 @@
+c:\users\visha\documents\visual studio 2010\Projects\Pattern_programs\Pattern_programs\bin\Debug\Pattern_programs.exe
+c:\users\visha\documents\visual studio 2010\Projects\Pattern_programs\Pattern_programs\bin\Debug\Pattern_programs.pdb
+c:\users\visha\documents\visual studio 2010\Projects\Pattern_programs\Pattern_programs\obj\x86\Debug\Pattern_programs.exe
+c:\users\visha\documents\visual studio 2010\Projects\Pattern_programs\Pattern_programs\obj\x86\Debug\Pattern_programs.pdb
